@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // r1= remessa 1, r2= remessa 2, rf= valor da soma das remessas
     inteiro r1, r2, rf
     escreva("Olá Almoxarifado \n")
     escreva("Qual foi a quantidade de parafusos da primeira remessa? \n")
