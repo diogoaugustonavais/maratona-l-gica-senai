@@ -1,5 +1,6 @@
 # maratona-l-gica-senai
-Automoção industrial
+Automoção Industrial
+
 Nome: Diogo Augusto Navais
 
 Turma: HT-IPI-03-T-26
