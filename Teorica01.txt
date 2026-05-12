@@ -6,17 +6,18 @@ constante para saber o seu valor da temperatura, podendo ser "numero' ou n para 
 
 2. Qual a função do comando leia() e por que o tipo de dado (inteiro, real, cadeia) é crucial?
 
-o comando "leia()" tem a função de ler um valor escrito por quem esta utilizando o comando. a importancia dos dados (inteiro, real e cadeia) é para saber o limite em que esse comando possa reconhecer o valor.
+o comando "leia()" tem a função de ler um valor escrito por quem esta utilizando o comando. a importancia dos dados
+(inteiro, real e cadeia) é para saber o limite em que esse comando possa reconhecer o valor.
 
-3. Como funcionam os Operadores Lógicos (E / OU / NÃO) na segurança de
-uma máquina?
+3. Como funcionam os Operadores Lógicos (E / OU / NÃO) na segurança de uma máquina?
 
-os operadores E, OU, e NÃO servem para encadear valores de um comando. na segurança de uma maquina eles podem ser utilizados para senhas, ids, dentre outras coisas em que são de informações privadas.
+os operadores E, OU, e NÃO servem para encadear valores de um comando. na segurança de uma maquina eles podem ser utilizados
+para senhas, ids, dentre outras coisas em que são de informações privadas.
 
-4. O que define uma Estrutura de Repetição e quando usá-la em uma linha
-de montagem?
+4. O que define uma Estrutura de Repetição e quando usá-la em uma linha de montagem?
 
-uma estrutura de repetição é definida pelo comando "enquanto()". esse comando pode ser utilizado para obter resultados mais especificos.
+uma estrutura de repetição é definida pelo comando "enquanto()". esse comando pode ser utilizado para obter resultados mais
+especificos.
 
 5. Qual a diferença prática entre os laços enquanto e para?
 
