@@ -1,10 +1,10 @@
 1. Diferencie variável de constante em um sistema de controle de
 temperatura.
 
-para a variavel da temperatura podemos utilizar "temperatura" ou "T" para deixar mais curta e simples, e uma variavel para a constante para saber o seu valor da temperatura, podendo ser "numero' ou n para deixar mais curta.
+para a variavel da temperatura podemos utilizar "temperatura" ou "T" para deixar mais curta e simples, e uma variavel para a
+constante para saber o seu valor da temperatura, podendo ser "numero' ou n para deixar mais curta.
 
-2. Qual a função do comando leia() e por que o tipo de dado (inteiro, real,
-cadeia) é crucial?
+2. Qual a função do comando leia() e por que o tipo de dado (inteiro, real, cadeia) é crucial?
 
 o comando "leia()" tem a função de ler um valor escrito por quem esta utilizando o comando. a importancia dos dados (inteiro, real e cadeia) é para saber o limite em que esse comando possa reconhecer o valor.
 
