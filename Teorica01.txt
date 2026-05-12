@@ -31,7 +31,8 @@ um loop infinito é quando um comando não para de ser execultado, isso pode aca
 7. Como os operadores Módulo (%) e Divisão Inteira (/) ajudam na separação
 de lotes?
 
-com a divisão inteira é possivel encontrar resultados mais especificos (como numeros pares), e o Modulo pode ser utilizado para obter o resto de uma divisão. eles podem ser usados para separar lotes impar e pares.
+com a divisão inteira é possivel encontrar resultados mais especificos (como numeros pares), e o Modulo pode ser utilizado
+para obter o resto de uma divisão. eles podem ser usados para separar lotes impar e pares.
 
 8. Por que a identação do código é essencial em projetos colaborativos?
 
@@ -40,7 +41,8 @@ ela é essencial para que todos colaboradores possa entender como é para o codi
 9. Explique o uso de uma Estrutura Condicional Composta (se / senao) em
 um sensor.
 
-o se é utilizado para dar uma resposta quando um valor desejado é obtido, o senao é para dar um outro resultado quando o valor desejado não é obtido.
+o se é utilizado para dar uma resposta quando um valor desejado é obtido, o senao é para dar um outro resultado quando o
+valor desejado não é obtido.
 
 10. Qual a importância de documentar o código com comentários no
 ambiente profissional?
