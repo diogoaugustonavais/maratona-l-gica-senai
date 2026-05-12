@@ -1,4 +1,4 @@
 1. Diferencie variável de constante em um sistema de controle de
 temperatura.
 
-A variaver é a palavra que utilizamos para poder separar "objetos" em um codigo. Por exemplo quando queremos separar uma roupa de um caderno, utilizamos a variavel "roupa" (ou r) para as roupas e "caderno" (ou c) para os cadernos
+para a variavel da temperatura podemos utilizar "temperatura" ou "T" para deixar mais curta e simples, e uma variavel para a constante da temperatura para saber o seu valor, podendo ser "numero' ou n para deixar mais curta.
