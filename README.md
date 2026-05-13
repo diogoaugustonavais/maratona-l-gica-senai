@@ -5,7 +5,7 @@ Nome: Diogo Augusto Navais
 
 Turma: HT-IPI-03-T-26
 
-Atividades
+Atividades:
 
 PARTE 1: AVALIAÇÃO TEÓRICA (COMPETÊNCIAS TÉCNICAS)
 
