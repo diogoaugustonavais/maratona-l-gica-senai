@@ -1,4 +1,4 @@
-# maratona-l-gica-senai
+# maratona-logica-senai
 Automoção Industrial
 
 Nome: Diogo Augusto Navais
