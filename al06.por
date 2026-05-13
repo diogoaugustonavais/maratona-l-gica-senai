@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // b=largura, a= altura/comprimento, vf= Area
     real b, a, vf
     escreva("Vamos descobrir a área de seu novo galpão \n")
     escreva("Qual é a largura de seu galpão? \n")
